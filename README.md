@@ -1,0 +1,1 @@
+# Basic LaTeX in Jupyter
