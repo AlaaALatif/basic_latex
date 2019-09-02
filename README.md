@@ -3,7 +3,9 @@ This repository should contain examples of using LaTeX to display mathematical f
 
 ## Usage
 `git clone https://github.com/AlaaALatif/basic_latex.git`
+
 `cd basic_latex`
+
 `jupyter notebook BasicLatex.ipynb`
 
 ## Contributors
